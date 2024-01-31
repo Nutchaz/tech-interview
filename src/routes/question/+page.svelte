@@ -519,7 +519,7 @@
 		width: 100%;
 	}
 	.area-result {
-		height: 60vh;
+		height: 70vh;
 		display: flex;
 		flex-direction: column;
 		background-color: #fff;
@@ -711,7 +711,7 @@
 		}
 
 		.area-result {
-			height: 80vh;
+			height: 85vh;
 			display: flex;
 			flex-direction: column;
 			background-color: #fff;
@@ -719,7 +719,6 @@
 			margin: 50px;
 			border: solid;
 			border-color: black;
-			/* padding: 0px 50px 0px 50px; */
 		}
 
 		.area {
