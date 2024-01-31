@@ -721,5 +721,17 @@
 			border-color: black;
 			/* padding: 0px 50px 0px 50px; */
 		}
+
+		.area {
+		height: 65vh;
+		display: flex;
+		flex-direction: column;
+		background-color: #fff;
+		border-radius: 30px;
+		margin: 50px;
+		border: solid;
+		border-color: black;
+		padding: 0px 50px 0px 50px;
+	}
 	}
 </style>
